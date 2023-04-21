@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+h1{
+    color: gold;
+    font-family: 'Rock Salt', cursive;
+}
+
+h3{
+    color: gold;
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: larger;
+}
+
+.qr{
+    height: 300px;
+}
